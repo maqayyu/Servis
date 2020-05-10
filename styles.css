@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: darkslategray;
     font-family:Arial, Helvetica, sans-serif ;
     align-content: center;
 }
@@ -26,6 +26,58 @@ img{
 #studen{
     color: grey;
 }
+.design{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.kotak{
+    padding:10px;
+    margin: 10px;
+    width: 150px;
+    background-color: rgb(255, 220, 0);
+    border-radius: 10px;
+    color: darkslategray;
+    max-height: 300px;
+}
+#pilih1{
+    background-color: rgb(255, 220, 0);
+    padding: 10px;
+    color: darkslategray;
+}
 
+.kotak2{
+    padding:10px;
+    margin: 10px;
+    background-color: rgb(0, 140, 255);
+    color: darkslategray;
+    border-radius: 10px;
+}
+#pilih2{
+    background-color: rgb(0, 140, 255);
+    color: darkslategray;
+}
 
+.kotak3{
+    padding:10px;
+    margin: 10px;
+    background-color: rgb(0, 190, 32);
+    color: darkslategray;
+    border-radius: 10px;
+}
+#pilih3{
+    background-color: rgb(0, 190, 32);
+    color: darkslategray;
 
+}
+.footer{
+    background-color: rgb(26, 26, 26);
+    overflow: hidden;
+    color: white;
+    padding: 20px 0 0 0;
+    text-align: center;
+    height: 50px;
+    margin: 50px 0 0 0;
+}
