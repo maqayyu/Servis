@@ -15,6 +15,7 @@ img{
     padding: 20px 50px 20px 50px;
     color: white;
     text-align: left;
+    max-width: 960px;
 }
 .servis img{
     width: 50px;
