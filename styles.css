@@ -17,7 +17,7 @@ img{
     text-align: left;
 }
 .servis img{
-    width: 100px;
+    width: 50px;
 }
 .servis1{
     padding: 0 20px 0 20px;
@@ -120,6 +120,7 @@ h1{
 
 .info img{
     width: 50px;
+    padding: 20px;
 }
 #klik{
     color: white;
