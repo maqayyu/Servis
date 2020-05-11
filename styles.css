@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(27, 27, 61);
+    background-image: url(img/backbody.png);
+    background-size: cover;
     font-family:Arial, Helvetica, sans-serif ;
     align-content: center;
 }
