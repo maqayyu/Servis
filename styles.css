@@ -13,10 +13,11 @@ img{
 .servis{
     display: flex;   
     padding: 20px 50px 20px 50px;
-    background-image: url(img/backservis.png);
-    background-size: cover;
     color: white;
     text-align: left;
+}
+.servis img{
+    width: 100px;
 }
 .servis1{
     padding: 0 20px 0 20px;
@@ -102,5 +103,24 @@ h1{
 }
 .contact{
     color: white;
-    margin: 50px;
+    background-image: url(img/backservis.png);
+    background-size: cover;
+    padding: 30px;
+    color: white;
+}
+
+.info{
+    display: flex; 
+    justify-content: space-evenly;
+    padding: 20px 50px 20px 50px;
+    color: white;
+    text-align: left;
+    margin: 10px 50px 10px 50px;
+}
+
+.info img{
+    width: 50px;
+}
+#klik{
+    color: white;
 }
