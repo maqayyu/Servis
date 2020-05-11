@@ -28,6 +28,10 @@ img{
 #studen{
     color: grey;
 }
+#tekan{
+    color: white;
+}
+
 .design{
     display: flex;
     flex-wrap: wrap;
