@@ -12,7 +12,7 @@ img{
 }
 .servis{
     display: flex;   
-    padding: 20px 50px 20px 50px;
+    justify-content: space-evenly;
     color: white;
     text-align: left;
     max-width: 960px;
@@ -21,8 +21,8 @@ img{
     width: 50px;
 }
 .servis1{
-    padding: 0 20px 0 20px;
     text-align: center;
+    margin: 20px;
 }
 
 #studen{
