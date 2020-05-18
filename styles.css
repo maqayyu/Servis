@@ -98,7 +98,7 @@ h5{
     padding:10px;
     margin: 5px;
     width: 120px;
-    background-image: linear-gradient(to bottom,purple, rgb(255, 220, 0));
+    background-image: linear-gradient(to bottom,darkorange, rgb(255, 220, 0));
     border-radius: 10px;
     height: 300px;
     font-size: 1em;
@@ -108,7 +108,7 @@ h5{
     padding:10px;
     margin: 10px;
     width: 120px;
-    background-image: linear-gradient(to bottom, purple,rgb(0, 140, 255));
+    background-image: linear-gradient(to bottom, darkblue,rgb(0, 140, 255));
     border-radius: 10px;
 }
 
@@ -116,7 +116,7 @@ h5{
     padding:10px;
     margin: 10px;
     width: 120px;
-    background-image: linear-gradient(to bottom, purple,rgb(0, 190, 32));
+    background-image: linear-gradient(to bottom, darkgreen,rgb(0, 190, 32));
     border-radius: 10px;
 }
 
@@ -124,7 +124,7 @@ h5{
     padding:10px;
     margin: 10px;
     width: 120px;
-    background-image: linear-gradient(to bottom, purple,rgb(255, 0, 55));
+    background-image: linear-gradient(to bottom, darkred,rgb(255, 0, 55));
     border-radius: 10px;
 }
 .footer{
