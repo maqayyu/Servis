@@ -1,5 +1,5 @@
 body{
-    background-image: url(img/backbody.png);
+    background-image: linear-gradient( to bottom right, black,black,purple);
     background-size: cover;
     font-family:Arial, Helvetica, sans-serif ;
     align-content: center;
@@ -13,6 +13,29 @@ body{
 
 img{
     width: 100%;
+}
+
+.info{
+    display: flex; 
+    justify-content: space-evenly;
+    padding: .5em 3em .5em 3em;
+    color: white;
+    text-align: left;
+    margin: 1em 5em 1em 5em;
+}
+
+.contact{
+    color: white;
+    background-image: url(img/backservis.png);
+    background-size: cover;
+    padding: 1em;
+    color: white;
+    font-size: 0.8em;
+}
+
+.info img{
+    width: 50px;
+    padding: 20px;
 }
 
 .servis{
@@ -122,28 +145,6 @@ img{
     font-size: 1em;
 }
 
-.contact{
-    color: white;
-    background-image: url(img/backservis.png);
-    background-size: cover;
-    padding: 30px;
-    color: white;
-    font-size: 0.8em;
-}
-
-.info{
-    display: flex; 
-    justify-content: space-evenly;
-    padding: 20px 50px 20px 50px;
-    color: white;
-    text-align: left;
-    margin: 10px 50px 10px 50px;
-}
-
-.info img{
-    width: 50px;
-    padding: 20px;
-}
 
 #klik{
     color: white;
