@@ -10,6 +10,7 @@ body{
     background-position: center;
 }
 
+
 @media screen and (max-width: 750px){
 height: 350px;
 }
