@@ -29,7 +29,7 @@ body{
 .social li {
     list-style: none;
     margin: 0 5px 0 5px;
-    padding: 10px;
+    padding: 5px;
     display: inline-block;
     font-size: 20px;
     border: 2px solid #5670ff;
@@ -38,6 +38,36 @@ body{
 
 .social a{
     color:  #5670ff;
+}
+
+.feed{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+}
+.feed h1{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.box1{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    margin-bottom: 20px;
+}
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    margin-bottom: 20px;
+}
+.box3{
+    width: 300px;
+    height: 300px;
+    background-color: grey;
+    margin-bottom: 20px;
 }
 
 
