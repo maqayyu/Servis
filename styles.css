@@ -12,6 +12,14 @@ body{
 
 }
 
+.ws {
+    background-color:  #5670ff;
+}
+.ws i{
+    color: white;
+}
+
+
 .social {
     text-align: center;
     top: 0%;
@@ -31,4 +39,5 @@ body{
 .social a{
     color:  #5670ff;
 }
+
 
