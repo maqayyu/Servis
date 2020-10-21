@@ -9,13 +9,14 @@ body{
     background-size: 100%;
     background-position: top;
     background-repeat: no-repeat;
+
 }
 
 
 .social {
     text-align: center;
     top: 0%;
-    margin: 0 60px 0 30px;
+    margin: -80px 60px 0 30px;
 }
 
 .social li {
