@@ -14,7 +14,9 @@ body{
 
 .ws {
     background-color:  #5670ff;
+    width: 80px;
 }
+
 .ws i{
     color: white;
 }
@@ -23,7 +25,7 @@ body{
 .social {
     text-align: center;
     top: 0%;
-    margin: -80px 60px 0 20px;
+    margin: -80px 30px 0 0px;
     margin-bottom: 50px;
 }
 
@@ -34,7 +36,7 @@ body{
     display: inline-block;
     font-size: 20px;
     border: 2px solid #5670ff;
-    border-radius: 50%;
+    border-radius: 10px;
 }
 
 .social a{
